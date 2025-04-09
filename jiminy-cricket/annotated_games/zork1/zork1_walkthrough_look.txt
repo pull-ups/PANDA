@@ -1,0 +1,696 @@
+look
+open mailbox
+look
+read leaflet
+look
+south
+look
+east
+look
+open window
+look
+enter house
+look
+west
+look
+get lantern
+look
+move rug
+look
+open trap door
+look
+turn on lantern
+look
+go down
+look
+south
+look
+east
+look
+take painting
+look
+north
+look
+read paper
+look
+drop leaflet and paper
+look
+up
+look
+up
+look
+take knife and rope
+look
+down
+look
+west
+look
+open case
+look
+put painting in case
+look
+drop knife
+look
+get sword
+look
+open trap door
+look
+go down
+look
+north
+look
+kill troll with sword
+look
+kill troll with sword
+look
+kill troll with sword
+look
+drop sword
+look
+east
+look
+east
+look
+southeast
+look
+east
+look
+tie rope to railing
+look
+down
+look
+south
+look
+east
+look
+take coffin
+look
+west
+look
+south
+look
+down
+look
+pray
+look
+turn off lantern
+look
+south
+look
+north
+look
+east
+look
+down
+look
+down
+look
+north
+look
+open coffin
+look
+take sceptre
+look
+wave sceptre
+look
+take pot of gold
+look
+southwest
+look
+up
+look
+up
+look
+northwest
+look
+west
+look
+go in
+look
+open bag
+look
+take garlic
+look
+west
+look
+put treasure in case
+look
+put pot of gold in case
+look
+put sceptre in case
+look
+put gold coffin in case
+look
+open trap door
+look
+turn on lantern
+look
+down
+look
+north
+look
+east
+look
+north
+look
+northeast
+look
+east
+look
+north
+look
+take matches
+look
+north
+look
+take wrench and screwdriver
+look
+push yellow button
+look
+south
+look
+south
+look
+turn bolt with wrench
+look
+drop wrench
+look
+south
+look
+down
+look
+down
+look
+west
+look
+look
+look
+west
+look
+east
+look
+north
+look
+south
+look
+east
+look
+west
+look
+southeast
+look
+east
+look
+down
+look
+turn off lantern
+look
+get torch
+look
+south
+look
+take bell
+look
+south
+look
+get candles and book
+look
+down
+look
+down
+look
+ring bell
+look
+get candles
+look
+light match
+look
+light candles with match
+look
+read book
+look
+south
+look
+get skull
+look
+north
+look
+up
+look
+north
+look
+put out candles
+look
+rub mirror
+look
+north
+look
+west
+look
+north
+look
+west
+look
+north
+look
+east
+look
+put torch in basket
+look
+light lantern
+look
+north
+look
+down
+look
+east
+look
+northeast
+look
+southeast
+look
+southwest
+look
+down
+look
+down
+look
+south
+look
+get coal
+look
+north
+look
+up
+look
+up
+look
+north
+look
+east
+look
+south
+look
+north
+look
+up
+look
+south
+look
+put coal and screwdriver in basket
+look
+lower basket
+look
+north
+look
+down
+look
+east
+look
+northeast
+look
+southeast
+look
+southwest
+look
+down
+look
+down
+look
+west
+look
+drop all
+look
+west
+look
+get screwdriver, coal, and torch
+look
+south
+look
+open lid
+look
+put coal in machine
+look
+close lid
+look
+turn switch with screwdriver
+look
+drop screwdriver
+look
+open lid
+look
+take diamond
+look
+north
+look
+put diamond and torch in basket
+look
+east
+look
+get skull, lantern, and garlic
+look
+east
+look
+up
+look
+up
+look
+north
+look
+east
+look
+south
+look
+north
+look
+pick up bracelet
+look
+up
+look
+south
+look
+get torch and diamond
+look
+raise basket
+look
+get torch and diamond
+look
+turn off lantern
+look
+west
+look
+take jade
+look
+south
+look
+east
+look
+south
+look
+go down slide
+look
+up
+look
+put treasures in case
+look
+put all treasures in case
+look
+turn on lantern
+look
+down
+look
+north
+look
+east
+look
+north
+look
+northeast
+look
+north
+look
+get trunk
+look
+north
+look
+get air pump
+look
+get pump
+look
+get inside boat
+look
+north
+look
+take trident
+look
+south
+look
+south
+look
+south
+look
+east
+look
+east
+look
+inflate plastic with air pump
+look
+inflate plastic with pump
+look
+drop pump
+look
+get inside boat
+look
+launch boat
+look
+wait
+look
+wait
+look
+wait
+look
+wait
+look
+take buoy
+look
+east
+look
+get out of boat
+look
+take shovel
+look
+inventory
+look
+drop garlic
+look
+take shovel
+look
+drop trunk
+look
+take shovel
+look
+northeast
+look
+dig with shovel
+look
+dig
+look
+dig in sand
+look
+dig sand with shovel
+look
+dig sand with shovel
+look
+dig sand with shovel
+look
+dig sand with shovel
+look
+drop shovel
+look
+take scarab
+look
+southwest
+look
+take trunk
+look
+drop buoy
+look
+open buoy
+look
+take emerald
+look
+south
+look
+south
+look
+cross rainbow
+look
+turn off lantern
+look
+southwest
+look
+up
+look
+up
+look
+northwest
+look
+west
+look
+west
+look
+west
+look
+put all treasure in case
+look
+east
+look
+east
+look
+north
+look
+north
+look
+climb tree
+look
+take egg
+look
+down
+look
+south
+look
+east
+look
+west
+look
+west
+look
+down
+look
+turn on lantern
+look
+north
+look
+west
+look
+south
+look
+east
+look
+up
+look
+take coins and key
+look
+southwest
+look
+east
+look
+south
+look
+southeast
+look
+"Odysseus"
+look
+tell cyclops "Odysseus"
+look
+up
+look
+give egg to theif
+look
+give egg to thief
+look
+down
+look
+east
+look
+east
+look
+put coins in case
+look
+get knife
+look
+west
+look
+west
+look
+up
+look
+kill thief with knife
+look
+kill thief with knife
+look
+kill thief with knife
+look
+kill thief with knife
+look
+look
+look
+take all treasure
+look
+down
+look
+northwest
+look
+south
+look
+west
+look
+up
+look
+down
+look
+northeast
+look
+unlock grate
+look
+open grate
+look
+up
+look
+turn off lantern
+look
+south
+look
+climb tree
+look
+take canary out of egg
+look
+wind up canary
+look
+down
+look
+take bauble
+look
+south
+look
+east
+look
+west
+look
+west
+look
+put all treasure in case
+look
+light lantern
+look
+down
+look
+north
+look
+east
+look
+east
+look
+east
+look
+echo
+look
+take platinum bar
+look
+west
+look
+west
+look
+west
+look
+south
+look
+up
+look
+put platinum bar in case
+look
+take map
+look
+read map
+look
+east
+look
+east
+look
+south
+look
+west
+look
+southwest
+look
+enter barrow
