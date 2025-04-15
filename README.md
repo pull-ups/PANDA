@@ -4,6 +4,8 @@
 
 Yonsei University
 
+[![arXiv](https://img.shields.io/badge/arXiv-2503.14427-b31b1b.svg)](https://arxiv.org/abs/2504.06868)
+
 ![Panda Demo](./demo.png)
 
 
